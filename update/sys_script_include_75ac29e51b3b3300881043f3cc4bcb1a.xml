@@ -2,29 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_315865_bands.bands1</api_name>
+        <api_name>x_315865_bands.bands1a</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>bands1</name>
-        <script><![CDATA[var bands1 = Class.create();
-bands1.prototype = {
+        <name>bands1a</name>
+        <script><![CDATA[var bands1a = Class.create();
+bands1a.prototype = {
     initialize: function() {
     },
 
-    type: 'bands1'
+    type: 'bands1a'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-10 00:28:39</sys_created_on>
         <sys_id>75ac29e51b3b3300881043f3cc4bcb1a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>bands1</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>bands1a</sys_name>
         <sys_package display_value="bands" source="x_315865_bands">8f7ba5a51b3b3300881043f3cc4bcb9e</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="bands">8f7ba5a51b3b3300881043f3cc4bcb9e</sys_scope>
         <sys_update_name>sys_script_include_75ac29e51b3b3300881043f3cc4bcb1a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-10 00:32:35</sys_updated_on>
+        <sys_updated_on>2019-09-10 01:03:35</sys_updated_on>
     </sys_script_include>
 </record_update>
